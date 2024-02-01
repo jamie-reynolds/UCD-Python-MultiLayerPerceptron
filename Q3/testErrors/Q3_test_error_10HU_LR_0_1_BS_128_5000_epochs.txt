@@ -1,0 +1,21 @@
+    
+
+MLP with 10 hidden units, a learning rate of 0.1 and a batchSize of 128 trained for 5000 epochs predicted from testExample 0 to 499 72.4% correctly.    
+
+MLP with 10 hidden units, a learning rate of 0.1 and a batchSize of 128 trained for 5000 epochs predicted from testExample 500 to 999 68.8% correctly.    
+
+MLP with 10 hidden units, a learning rate of 0.1 and a batchSize of 128 trained for 5000 epochs predicted from testExample 1000 to 1499 63.6% correctly.    
+
+MLP with 10 hidden units, a learning rate of 0.1 and a batchSize of 128 trained for 5000 epochs predicted from testExample 1500 to 1999 75.6% correctly.    
+
+MLP with 10 hidden units, a learning rate of 0.1 and a batchSize of 128 trained for 5000 epochs predicted from testExample 2000 to 2499 73.4% correctly.    
+
+MLP with 10 hidden units, a learning rate of 0.1 and a batchSize of 128 trained for 5000 epochs predicted from testExample 2500 to 2999 67.4% correctly.    
+
+MLP with 10 hidden units, a learning rate of 0.1 and a batchSize of 128 trained for 5000 epochs predicted from testExample 3000 to 3499 69.2% correctly.    
+
+MLP with 10 hidden units, a learning rate of 0.1 and a batchSize of 128 trained for 5000 epochs predicted from testExample 3500 to 3999 70.2% correctly.
+
+**********************************************************************
+MLP with 10 hidden units, a learning rate of 0.1 and a batchSize of 128 trained for 5000 epochs predicted the test examples 70.075% correctly.
+**********************************************************************

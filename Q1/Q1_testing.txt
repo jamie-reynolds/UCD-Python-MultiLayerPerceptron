@@ -1,0 +1,1 @@
+MLP with 8 hidden units, a learning rate of 0.1 trained for 1000 epochs predicted 100.0% of the test set correctly.

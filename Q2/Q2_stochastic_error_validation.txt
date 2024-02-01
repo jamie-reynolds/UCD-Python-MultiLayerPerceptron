@@ -1,0 +1,85 @@
+
+VALIDATION RESULTS
+***********************************
+5HU LR_0.1 batchSize_32 999_epochs: 0.3040884643839766
+6HU LR_0.1 batchSize_32 999_epochs: 0.3042376197392494
+7HU LR_0.1 batchSize_32 999_epochs: 0.3055475941123971
+8HU LR_0.1 batchSize_32 999_epochs: 0.30611697267196425
+10HU LR_0.1 batchSize_32 999_epochs: 0.3063839911704337
+**********************************
+VALIDATION RESULTS
+***********************************
+5HU LR_0.1 batchSize_32 1999_epochs: 0.3032436516465061
+6HU LR_0.1 batchSize_32 1999_epochs: 0.30321600726829845
+7HU LR_0.1 batchSize_32 1999_epochs: 0.3048162506010984
+8HU LR_0.1 batchSize_32 1999_epochs: 0.3056485961513021
+10HU LR_0.1 batchSize_32 1999_epochs: 0.30603702698324414
+****************************
+VALIDATION RESULTS
+***********************************
+5HU LR_0.1 batchSize_32 2999_epochs: 0.30072317090468564
+6HU LR_0.1 batchSize_32 2999_epochs: 0.30206705257416677
+7HU LR_0.1 batchSize_32 2999_epochs: 0.30384829675938646
+8HU LR_0.1 batchSize_32 2999_epochs: 0.3050337890842134
+10HU LR_0.1 batchSize_32 2999_epochs: 0.3056112696784269
+***************************
+VALIDATION RESULTS
+***********************************
+5HU LR_0.1 batchSize_32 3999_epochs: 0.2989151889185333
+6HU LR_0.1 batchSize_32 3999_epochs: 0.3007205469011273
+7HU LR_0.1 batchSize_32 3999_epochs: 0.30256159023661594
+8HU LR_0.1 batchSize_32 3999_epochs: 0.30411094162200825
+10HU LR_0.1 batchSize_32 3999_epochs: 0.30486740529260464
+***************************
+VALIDATION RESULTS
+***********************************
+5HU LR_0.1 batchSize_32 4999_epochs: 0.29823602002286725
+6HU LR_0.1 batchSize_32 4999_epochs: 0.29978600657040055
+7HU LR_0.1 batchSize_32 4999_epochs: 0.30138193053354395
+8HU LR_0.1 batchSize_32 4999_epochs: 0.3029769196932369
+10HU LR_0.1 batchSize_32 4999_epochs: 0.3034329343890517
+***************************
+VALIDATION RESULTS
+***********************************
+5HU LR_1 batchSize_32 999_epochs: 0.2973323568285945
+6HU LR_1 batchSize_32 999_epochs: 0.3014937220158612
+7HU LR_1 batchSize_32 999_epochs: 0.2972074618049455
+8HU LR_1 batchSize_32 999_epochs: 0.2967129875579057
+10HU LR_1 batchSize_32 999_epochs: 0.2996769795408485
+***********************************
+*********
+VALIDATION RESULTS
+***********************************
+5HU LR_1 batchSize_32 1999_epochs: 0.29611322824564434
+6HU LR_1 batchSize_32 1999_epochs: 0.30074505946353997
+7HU LR_1 batchSize_32 1999_epochs: 0.2961098130651555
+8HU LR_1 batchSize_32 1999_epochs: 0.29426364254239273
+10HU LR_1 batchSize_32 1999_epochs: 0.2959432065957659
+***********************************
+*
+VALIDATION RESULTS
+***********************************
+5HU LR_1 batchSize_32 2999_epochs: 0.29618189415519536
+6HU LR_1 batchSize_32 2999_epochs: 0.30033559828875406
+7HU LR_1 batchSize_32 2999_epochs: 0.2957687265080013
+8HU LR_1 batchSize_32 2999_epochs: 0.29436032044084925
+10HU LR_1 batchSize_32 2999_epochs: 0.2958249634648571
+***********************************
+*
+VALIDATION RESULTS
+***********************************
+5HU LR_1 batchSize_32 3999_epochs: 0.2955363942787741
+6HU LR_1 batchSize_32 3999_epochs: 0.2991038373323159
+7HU LR_1 batchSize_32 3999_epochs: 0.29558269046399055
+8HU LR_1 batchSize_32 3999_epochs: 0.293760399831516
+10HU LR_1 batchSize_32 3999_epochs: 0.29418591166964714
+***********************************
+***
+VALIDATION RESULTS
+***********************************
+5HU LR_1 batchSize_32 4999_epochs: 0.2957092525064036
+6HU LR_1 batchSize_32 4999_epochs: 0.2982530683917863
+7HU LR_1 batchSize_32 4999_epochs: 0.29575129171828957
+8HU LR_1 batchSize_32 4999_epochs: 0.29357448641952943
+10HU LR_1 batchSize_32 4999_epochs: 0.29459366030462747
+***********************************
